@@ -1,7 +1,7 @@
 #!/usr/bin/env python
-from app import create_app
+from app.zip_code.views import app_zip
 
-app = create_app('config')
+app = app_zip('config')
 
 if __name__ == '__main__':
     app.run(host=app.config['HOST'],
