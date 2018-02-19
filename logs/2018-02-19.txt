@@ -10,3 +10,10 @@
 {"09:05:50.137800": {"question": "I want to buy something", "answer": "Buy"}}
 {"09:22:31.330650": {"question": "I want to buy something", "answer": "You can buy"}}
 {"11:59:58.150629": {"question": "I want to buy something", "answer": "Buy"}}
+{"13:59:22.851414": {"question": "I want to buy something", "answer": "You can buy"}}
+{"14:10:04.948028": {"question": "I want to buy something", "answer": "Buy"}}
+{"14:13:10.871270": {"question": "I want to buy something", "answer": "Do it!"}}
+{"14:13:12.435553": {"question": "I want to buy something", "answer": "Do it!"}}
+{"14:13:14.061736": {"question": "I want to buy something", "answer": "Buy"}}
+{"14:13:33.177794": {"question": "I want to buy something", "answer": "Buy"}}
+{"14:13:34.802585": {"question": "I want to buy something", "answer": "You can do it!"}}

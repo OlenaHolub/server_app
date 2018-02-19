@@ -32,4 +32,4 @@ class AiSwap(Resource):
         response = json.loads(json_response)
         answer_response = response['result']['fulfillment']['speech']
         log_question_answer('logs', question, answer_response)
-        return answer_response
+        return answer_response, 200
