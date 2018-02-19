@@ -1,7 +1,8 @@
 #!/usr/bin/env python
-from app import create_app
 
-app = create_app('config')
+from app.controller import app_server
+
+app = app_server('config')
 
 if __name__ == '__main__':
     app.run(host=app.config['HOST'],
